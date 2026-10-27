@@ -24,6 +24,8 @@ The legal workspace provides a concrete access-review case. Its helper combines 
 
 **Evidence boundary:** A restoration review needs consistent case authorization across pages, endpoints and stored files. Identifying the inconsistent route is part of the case. No comprehensive isolation test or independent security audit is claimed.
 
+The [Legal Workspace showcase](https://github.com/RawPowered/RawOps-Legal-Workspace) provides a focused review of the case interface, access design, source and external reviewer feedback.
+
 ## 3. Treat changing content as an operational dependency
 
 Product prices and descriptions feed training and email rendering through shared shortcodes. Enabled-product synchronization and reference checks help maintain the learning material. This creates a useful change-management question: which values refresh from the catalog, and which explanations still need an editor?

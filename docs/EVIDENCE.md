@@ -10,11 +10,17 @@ This repository curates existing work for a particular review path. It is a docu
 | Preview | Fictional or empty data and mocked responses remain labeled. |
 | Proposed | Tabletop procedures, review frameworks, and roadmap items are not completed operating results. |
 
+
+## RawOps Suite evidence added October 26, 2026
+
+Historical administration screens plus public implementation of session checks, activity reporting, training maintenance and legal access helpers. The documented evidence-locker access gap remains a restoration requirement. [Review the role-specific case](RAWOPS-SUITE.md) and [original publication scope](https://github.com/RawPowered/RawOps-Suite/blob/main/docs/PUBLICATION-REVIEW.md).
+
+
 ## Primary portfolio references
 
-- [Administration background](https://github.com/RawPowered/RawPowered/blob/main/docs/BACKGROUND.md) — Experience narrative; no unverified MDM vendor or current Salesforce credential asserted.
-- [Expert Solar preserved history](https://github.com/RawPowered/RawPowered/blob/main/docs/EXPERT-SOLAR.md) — Partial historical account; no automation was executed during collection.
-- [Security and privacy decisions](https://github.com/RawPowered/RawPowered/blob/main/docs/SECURITY-AND-PRIVACY.md) — Specific documented/source boundaries; no general security certification.
+- [Administration background](https://github.com/RawPowered/RawPowered/blob/main/docs/BACKGROUND.md): Experience narrative; no unverified MDM vendor or current Salesforce credential asserted.
+- [Expert Solar preserved history](https://github.com/RawPowered/RawPowered/blob/main/docs/EXPERT-SOLAR.md): Partial historical account; no automation was executed during collection.
+- [Security and privacy decisions](https://github.com/RawPowered/RawPowered/blob/main/docs/SECURITY-AND-PRIVACY.md): Specific documented/source boundaries; no general security certification.
 
 - [Background and credential status](https://github.com/RawPowered/RawPowered/blob/main/docs/BACKGROUND.md)
 - [Security and privacy boundaries](https://github.com/RawPowered/RawPowered/blob/main/docs/SECURITY-AND-PRIVACY.md)
@@ -33,8 +39,8 @@ The public evidence does not yet establish the Windows/Linux server depth, enter
 
 ## Role reference
 
-Role alignment informed by the [IT Systems Administrator, Mission Systems — reference role, not a confirmed application](https://job-boards.greenhouse.io/spacex/jobs/8525777002) posting, reviewed October 25, 2026. This is an independent applicant portfolio; no employer affiliation or endorsement is implied.
+Role alignment informed by the [IT Systems Administrator, Mission Systems: reference role, not a confirmed application](https://job-boards.greenhouse.io/spacex/jobs/8525777002) posting, reviewed October 25, 2026. This is an independent applicant portfolio; no employer affiliation or endorsement is implied.
 
 Project repositories remain the authoritative location for their current source, releases, checks, and acceptance scope. This portfolio was prepared October 25, 2026.
 
-[Return to overview](../README.md)
+[Return to overview](../README.md) · [Remaining evidence and acceptance work](ROADMAP.md)

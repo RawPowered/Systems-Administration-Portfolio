@@ -6,12 +6,25 @@ My administration work spans CRM and SaaS platforms, migrations, access lifecycl
 
 **Relevant work:** IT systems administration, business applications, SaaS operations, and automation. For SpaceX, this is a preliminary systems-administration route, pending selection of a specific vacancy.
 
-[Profile](https://github.com/RawPowered/RawPowered) · [Detailed walkthrough](docs/WALKTHROUGH.md) · [Evidence & scope](docs/EVIDENCE.md) · [Development plan](docs/ROADMAP.md) · [LinkedIn](https://www.linkedin.com/in/josephedwardscto/)
+<p><a href="https://github.com/RawPowered"><img src="assets/rawops/profile.svg" alt="Main portfolio" height="38"></a> <a href="docs/WALKTHROUGH.md"><img src="assets/rawops/walkthrough.svg" alt="Delivery walkthrough" height="38"></a> <a href="docs/EVIDENCE.md"><img src="assets/rawops/evidence.svg" alt="Evidence and scope" height="38"></a> <a href="https://www.linkedin.com/in/josephedwardscto/"><img src="assets/rawops/contact.svg" alt="Connect on LinkedIn" height="38"></a></p>
 
-## Start here — a three-minute review
+<h2 id="rawops-suite"><img src="assets/rawops/section.svg" alt="Application operations, access and visibility" width="100%"></h2>
+
+RawOps Suite gives you a source-level view of how I designed administration around daily work: role-specific workspaces, learning progress, usage reporting and explicit access checks.
+
+<a href="docs/RAWOPS-SUITE.md"><img src="assets/rawops/case.svg" alt="Explore the RawOps case" height="38"></a> <a href="https://github.com/RawPowered/RawOps-Suite"><img src="assets/rawops/source.svg" alt="Inspect RawOps source" height="38"></a> <a href="https://github.com/RawPowered/RawOps-Suite/blob/main/docs/PRODUCT-LEARNING-DESIGN.md"><img src="assets/rawops/design.svg" alt="Product and learning design" height="38"></a>
+
+<a href="https://github.com/RawPowered/RawOps-Suite/blob/main/docs/evidence/GALLERY.md"><img src="https://raw.githubusercontent.com/RawPowered/RawOps-Suite/main/docs/evidence/screenshots/admin-module-dashboard-2025-10-20.png" alt="20 October 2025: historical administrator navigation across CRM, learning, legal and operations. Identifying content and removed debug utilities are covered." width="100%"></a>
+
+20 October 2025: historical administrator navigation across CRM, learning, legal and operations. Identifying content and removed debug utilities are covered.
+
+**Evidence scope:** Preserved partial history of a previously functional PHP/MySQL business system. This case supports application-operations experience; infrastructure administration and recovery results retain their separate evidence requirements.
+
+## Continue your three-minute review
 
 | Evidence | What to inspect | Delivery / evidence scope |
 |---|---|---|
+| [RawOps Suite](docs/RAWOPS-SUITE.md) | Role workspaces, activity reporting, product/training maintenance and access boundaries. | Redacted historical screens and public source; current runtime and restoration remain unvalidated. |
 | [Administration background](https://github.com/RawPowered/RawPowered/blob/main/docs/BACKGROUND.md) | Microsoft 365, Google Workspace, Salesforce/Zoho, user lifecycle, and Apple MDM scope. | Experience narrative; no unverified MDM vendor or current Salesforce credential asserted. |
 | [Expert Solar preserved history](https://github.com/RawPowered/RawPowered/blob/main/docs/EXPERT-SOLAR.md) | Historical administration ownership, retained schema and configuration, and safe evidence handling. | Partial historical account; no automation was executed during collection. |
 | [Security and privacy decisions](https://github.com/RawPowered/RawPowered/blob/main/docs/SECURITY-AND-PRIVACY.md) | Record access, credential scope, and server-side response minimization. | Specific documented/source boundaries; no general security certification. |
@@ -40,7 +53,7 @@ Conceptual review path, not a captured execution trace. [Inspect the linked evid
 
 This reference role values reliable operation, troubleshooting, documentation, automation, and infrastructure breadth. My directly supported evidence is strongest in business systems, integrations, migrations, and access administration.
 
-Role alignment informed by the [IT Systems Administrator, Mission Systems — reference role, not a confirmed application](https://job-boards.greenhouse.io/spacex/jobs/8525777002) posting, reviewed October 25, 2026. This is an independent applicant portfolio; no employer affiliation or endorsement is implied.
+Role alignment informed by the [IT Systems Administrator, Mission Systems: reference role, not a confirmed application](https://job-boards.greenhouse.io/spacex/jobs/8525777002) posting, reviewed October 25, 2026. This is an independent applicant portfolio; no employer affiliation or endorsement is implied.
 
 ## Review with me
 

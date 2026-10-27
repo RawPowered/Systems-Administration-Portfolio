@@ -1,5 +1,11 @@
 # Access, change, and recovery
 
+
+## RawOps Suite implementation case
+
+RawOps Suite gives you a source-level view of how I designed administration around daily work: role-specific workspaces, learning progress, usage reporting and explicit access checks. [Follow three concrete examples with source and historical evidence](RAWOPS-SUITE.md).
+
+
 ## Hands-on administration scope
 
 My work includes Microsoft 365 and Google Workspace transitions, CRM administration, onboarding/offboarding, access management, and web/hosting migrations. I administered field iPhones spanning iPhone X through iPhone 15 Pro Max and tablets, with application restrictions, default application availability, and location settings. No specific MDM vendor is inferred.
